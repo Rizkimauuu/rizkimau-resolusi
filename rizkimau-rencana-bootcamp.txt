@@ -3,3 +3,4 @@ RENCANA BOOTCAMP
 - Quality assurance
 - Quality assurance tester
 - Network
+- Fun game
